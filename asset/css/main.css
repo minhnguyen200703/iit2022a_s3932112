@@ -1,0 +1,13 @@
+.name, .email {
+    margin: 4px;
+}
+
+.gender {
+    border: 1px solid #000;
+    width: 400px;
+    padding: 16px;
+    margin: 4px;
+}
+footer {
+    margin-top: 32px;
+}
